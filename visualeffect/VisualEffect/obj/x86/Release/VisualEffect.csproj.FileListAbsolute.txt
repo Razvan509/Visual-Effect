@@ -1,0 +1,16 @@
+C:\Users\Alexandru\Desktop\VisualEffect\VisualEffect\bin\Release\VisualEffect.exe
+C:\Users\Alexandru\Desktop\VisualEffect\VisualEffect\bin\Release\VisualEffect.pdb
+C:\Users\Alexandru\Desktop\VisualEffect\VisualEffect\obj\x86\Release\VisualEffect.Game.resources
+C:\Users\Alexandru\Desktop\VisualEffect\VisualEffect\obj\x86\Release\VisualEffect.Properties.Resources.resources
+C:\Users\Alexandru\Desktop\VisualEffect\VisualEffect\obj\x86\Release\VisualEffect.csproj.GenerateResource.Cache
+C:\Users\Alexandru\Desktop\VisualEffect\VisualEffect\obj\x86\Release\VisualEffect.exe
+C:\Users\Alexandru\Desktop\VisualEffect\VisualEffect\obj\x86\Release\VisualEffect.pdb
+d:\programare\C#\VisualEffect\VisualEffect\VisualEffect\bin\Release\VisualEffect.exe
+d:\programare\C#\VisualEffect\VisualEffect\VisualEffect\bin\Release\VisualEffect.pdb
+d:\programare\C#\VisualEffect\VisualEffect\VisualEffect\obj\x86\Release\VisualEffect.Credits.resources
+d:\programare\C#\VisualEffect\VisualEffect\VisualEffect\obj\x86\Release\VisualEffect.Game.resources
+d:\programare\C#\VisualEffect\VisualEffect\VisualEffect\obj\x86\Release\VisualEffect.Help.resources
+d:\programare\C#\VisualEffect\VisualEffect\VisualEffect\obj\x86\Release\VisualEffect.Properties.Resources.resources
+d:\programare\C#\VisualEffect\VisualEffect\VisualEffect\obj\x86\Release\VisualEffect.csproj.GenerateResource.Cache
+d:\programare\C#\VisualEffect\VisualEffect\VisualEffect\obj\x86\Release\VisualEffect.exe
+d:\programare\C#\VisualEffect\VisualEffect\VisualEffect\obj\x86\Release\VisualEffect.pdb

@@ -1,0 +1,66 @@
+C:\Users\11-a\Desktop\VisualEffect\VisualEffect\bin\Debug\VisualEffect.exe
+C:\Users\11-a\Desktop\VisualEffect\VisualEffect\bin\Debug\VisualEffect.pdb
+C:\Users\11-a\Desktop\VisualEffect\VisualEffect\obj\x86\Debug\VisualEffect.Game.resources
+C:\Users\11-a\Desktop\VisualEffect\VisualEffect\obj\x86\Debug\VisualEffect.Properties.Resources.resources
+C:\Users\11-a\Desktop\VisualEffect\VisualEffect\obj\x86\Debug\VisualEffect.csproj.GenerateResource.Cache
+C:\Users\11-a\Desktop\VisualEffect\VisualEffect\obj\x86\Debug\VisualEffect.exe
+C:\Users\11-a\Desktop\VisualEffect\VisualEffect\obj\x86\Debug\VisualEffect.pdb
+d:\downloads\VisualEffect\VisualEffect\VisualEffect\obj\x86\Debug\VisualEffect.exe
+d:\downloads\VisualEffect\VisualEffect\VisualEffect\obj\x86\Debug\VisualEffect.pdb
+d:\downloads\VisualEffect\VisualEffect\VisualEffect\bin\Debug\VisualEffect.exe
+d:\downloads\VisualEffect\VisualEffect\VisualEffect\bin\Debug\VisualEffect.pdb
+d:\downloads\VisualEffect\VisualEffect\VisualEffect\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\downloads\VisualEffect\VisualEffect\VisualEffect\obj\x86\Debug\VisualEffect.Game.resources
+d:\downloads\VisualEffect\VisualEffect\VisualEffect\obj\x86\Debug\VisualEffect.Properties.Resources.resources
+d:\downloads\VisualEffect\VisualEffect\VisualEffect\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\downloads\VisualEffect\VisualEffect\VisualEffect\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alexandru\Desktop\VisualEffect\VisualEffect\obj\x86\Debug\VisualEffect.exe
+C:\Users\Alexandru\Desktop\VisualEffect\VisualEffect\obj\x86\Debug\VisualEffect.pdb
+C:\Users\Alexandru\Desktop\VisualEffect\VisualEffect\bin\Debug\VisualEffect.exe
+C:\Users\Alexandru\Desktop\VisualEffect\VisualEffect\bin\Debug\VisualEffect.pdb
+C:\Users\Alexandru\Desktop\VisualEffect\VisualEffect\obj\x86\Debug\VisualEffect.csprojResolveAssemblyReference.cache
+C:\Users\Alexandru\Desktop\VisualEffect\VisualEffect\obj\x86\Debug\VisualEffect.Game.resources
+C:\Users\Alexandru\Desktop\VisualEffect\VisualEffect\obj\x86\Debug\VisualEffect.Properties.Resources.resources
+C:\Users\Alexandru\Desktop\VisualEffect\VisualEffect\obj\x86\Debug\VisualEffect.csproj.GenerateResource.Cache
+C:\Users\10-a\Downloads\VisualEffect (1)\VisualEffect\obj\x86\Debug\VisualEffect.exe
+C:\Users\10-a\Downloads\VisualEffect (1)\VisualEffect\obj\x86\Debug\VisualEffect.pdb
+C:\Users\10-a\Downloads\VisualEffect (1)\VisualEffect\bin\Debug\VisualEffect.exe
+C:\Users\10-a\Downloads\VisualEffect (1)\VisualEffect\bin\Debug\VisualEffect.pdb
+C:\Users\10-a\Downloads\VisualEffect (1)\VisualEffect\obj\x86\Debug\VisualEffect.csprojResolveAssemblyReference.cache
+C:\Users\10-a\Downloads\VisualEffect (1)\VisualEffect\obj\x86\Debug\VisualEffect.Game.resources
+C:\Users\10-a\Downloads\VisualEffect (1)\VisualEffect\obj\x86\Debug\VisualEffect.Properties.Resources.resources
+C:\Users\10-a\Downloads\VisualEffect (1)\VisualEffect\obj\x86\Debug\VisualEffect.csproj.GenerateResource.Cache
+C:\Users\10-a\Downloads\VisualEffect (1)\VisualEffect\obj\x86\Debug\VisualEffect.Credits.resources
+C:\Users\10-a\Downloads\VisualEffect (1)\VisualEffect\obj\x86\Debug\VisualEffect.Help.resources
+d:\download\VisualEffect (1)(1)\VisualEffect (1)\VisualEffect\obj\x86\Debug\VisualEffect.exe
+d:\download\VisualEffect (1)(1)\VisualEffect (1)\VisualEffect\obj\x86\Debug\VisualEffect.pdb
+d:\download\VisualEffect (1)(1)\VisualEffect (1)\VisualEffect\bin\Debug\VisualEffect.exe
+d:\download\VisualEffect (1)(1)\VisualEffect (1)\VisualEffect\bin\Debug\VisualEffect.pdb
+d:\download\VisualEffect (1)(1)\VisualEffect (1)\VisualEffect\obj\x86\Debug\VisualEffect.csprojResolveAssemblyReference.cache
+d:\download\VisualEffect (1)(1)\VisualEffect (1)\VisualEffect\obj\x86\Debug\VisualEffect.Credits.resources
+d:\download\VisualEffect (1)(1)\VisualEffect (1)\VisualEffect\obj\x86\Debug\VisualEffect.Game.resources
+d:\download\VisualEffect (1)(1)\VisualEffect (1)\VisualEffect\obj\x86\Debug\VisualEffect.Help.resources
+d:\download\VisualEffect (1)(1)\VisualEffect (1)\VisualEffect\obj\x86\Debug\VisualEffect.Properties.Resources.resources
+d:\download\VisualEffect (1)(1)\VisualEffect (1)\VisualEffect\obj\x86\Debug\VisualEffect.csproj.GenerateResource.Cache
+D:\programare\C#\VisualEffect\VisualEffect\VisualEffect\bin\Debug\VisualEffect.exe
+D:\programare\C#\VisualEffect\VisualEffect\VisualEffect\bin\Debug\VisualEffect.pdb
+D:\programare\C#\VisualEffect\VisualEffect\VisualEffect\obj\x86\Debug\VisualEffect.csprojResolveAssemblyReference.cache
+D:\programare\C#\VisualEffect\VisualEffect\VisualEffect\obj\x86\Debug\VisualEffect.Credits.resources
+D:\programare\C#\VisualEffect\VisualEffect\VisualEffect\obj\x86\Debug\VisualEffect.Game.resources
+D:\programare\C#\VisualEffect\VisualEffect\VisualEffect\obj\x86\Debug\VisualEffect.Help.resources
+D:\programare\C#\VisualEffect\VisualEffect\VisualEffect\obj\x86\Debug\VisualEffect.Properties.Resources.resources
+D:\programare\C#\VisualEffect\VisualEffect\VisualEffect\obj\x86\Debug\VisualEffect.csproj.GenerateResource.Cache
+D:\programare\C#\VisualEffect\VisualEffect\VisualEffect\obj\x86\Debug\VisualEffect.exe
+D:\programare\C#\VisualEffect\VisualEffect\VisualEffect\obj\x86\Debug\VisualEffect.pdb
+C:\Users\12-a\Downloads\var++-20170509T044418Z-001\var++\VisualEffect\obj\x86\Debug\VisualEffect.exe
+C:\Users\12-a\Downloads\var++-20170509T044418Z-001\var++\VisualEffect\obj\x86\Debug\VisualEffect.pdb
+C:\Users\12-a\Downloads\var++-20170509T044418Z-001\var++\VisualEffect\bin\Debug\VisualEffect.exe
+C:\Users\12-a\Downloads\var++-20170509T044418Z-001\var++\VisualEffect\bin\Debug\VisualEffect.pdb
+C:\Users\12-a\Downloads\var++-20170509T044418Z-001\var++\VisualEffect\obj\x86\Debug\VisualEffect.csprojResolveAssemblyReference.cache
+C:\Users\12-a\Downloads\var++-20170509T044418Z-001\var++\VisualEffect\obj\x86\Debug\VisualEffect.Credits.resources
+C:\Users\12-a\Downloads\var++-20170509T044418Z-001\var++\VisualEffect\obj\x86\Debug\VisualEffect.Game.resources
+C:\Users\12-a\Downloads\var++-20170509T044418Z-001\var++\VisualEffect\obj\x86\Debug\VisualEffect.Help.resources
+C:\Users\12-a\Downloads\var++-20170509T044418Z-001\var++\VisualEffect\obj\x86\Debug\VisualEffect.Properties.Resources.resources
+C:\Users\12-a\Downloads\var++-20170509T044418Z-001\var++\VisualEffect\obj\x86\Debug\VisualEffect.csproj.GenerateResource.Cache
+D:\download\drive-download-20170511T175556Z-001\VisualEffect\obj\x86\Debug\VisualEffect.exe
+D:\download\drive-download-20170511T175556Z-001\VisualEffect\obj\x86\Debug\VisualEffect.pdb
